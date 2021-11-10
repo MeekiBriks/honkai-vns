@@ -326,7 +326,7 @@
             <show chara="einSlyCoatClose" position="center"/>
             <speak chara="einNoFace">We are studying the numerous variants of this board game called Mancala. </speak>
             <show chara="teslaNormalSleepyNightyClose" position="center"/>
-            <speak chara="teslaNoFace"> … Don't tell me you've been doing this retarded crap for the whole morning. </speak>
+            <speak chara="teslaNoFace"> … Don't tell me you've been doing this idiotic crap for the whole morning. </speak>
             <show chara="einSmileCoatClose" position="center"/>
             <speak chara="einNoFace">Of the 60 mainstream variants, four have already been studied. </speak>
             <show chara="einSlyCoatClose" position="center"/>
@@ -383,7 +383,7 @@
             <show chara="teslaEmbarraGlassWinterClose-up" position="right"/>
             <speak chara="teslaNoFace">Huh? </speak>
             <show chara="teslaShameGlassWinterClose-up" position="right"/>
-            <speak chara="teslaNoFace"> … Oh, right, when I was making that phone call for our taxi, you were still playing that retarded stone game.  </speak>
+            <speak chara="teslaNoFace"> … Oh, right, when I was making that phone call for our taxi, you were still playing that stupid stone game.  </speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right"/>
             <speak chara="teslaNoFace">Cemetery, we're going to Highgate Cemetery. </speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="right" opacity="0.7"/>
